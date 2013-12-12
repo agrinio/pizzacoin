@@ -1,0 +1,4 @@
+pizzacoin
+=========
+
+Cryptocurrency coin
